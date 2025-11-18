@@ -36,7 +36,7 @@
 # Los pasos que debe seguir para la construcción de un modelo de
 # clasificación están descritos a continuación.
 #
-#
+##
 # Paso 1.
 # Realice la limpieza de los datasets:
 # - Renombre la columna "default payment next month" a "default".
